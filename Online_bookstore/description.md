@@ -6,3 +6,5 @@ I wrote this script as part of a group project, the objective being to design a 
 - Aggregate functions to calculate order totals
 - Ratings and tags that readers can leave on books they have purchased
 - A "product profile" with aggregate function to display the average rating of products
+
+The script also uses update and delete functions to demonstrate scenarios such as a user deleting their account, or adjusting the system to extend the maximum book title length. 
