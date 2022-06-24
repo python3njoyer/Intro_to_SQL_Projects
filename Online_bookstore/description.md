@@ -5,4 +5,4 @@ I wrote this script as part of a group project, the objective being to design a 
 - Orders and invoices
 - Aggregate functions to calculate order totals
 - Ratings and tags that readers can leave on books they have purchased
-- A product profile including an aggregate function to display average rating of products
+- A "product profile" with aggregate function to display the average rating of products
